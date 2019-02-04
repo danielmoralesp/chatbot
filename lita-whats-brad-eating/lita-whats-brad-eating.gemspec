@@ -1,12 +1,12 @@
 Gem::Specification.new do |spec|
-  spec.name          = "lita-whats-brad-eating"
+  spec.name          = "lita-whats-brad-eating-danielm"
   spec.version       = "0.1.0"
   spec.authors       = ["danielmoralesp"]
   spec.email         = ["daniel_moralesp@hotmail.com"]
-  spec.description   = "TODO: Add a description"
-  spec.summary       = "TODO: Add a summary"
-  spec.homepage      = "TODO: Add a homepage"
-  spec.license       = "TODO: Add a license"
+  spec.description   = "Description Lita"
+  spec.summary       = "Summary Lita"
+  spec.homepage      = "https://github.com/danielmoralesp/chatbot/tree/master/lita-whats-brad-eating"
+  spec.license       = "MIT"
   spec.metadata      = { "lita_plugin_type" => "handler" }
 
   spec.files         = `git ls-files`.split($/)
