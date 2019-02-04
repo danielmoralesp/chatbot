@@ -1,3 +1,6 @@
 source "https://rubygems.org"
 
+gem "lita"
+gem 'lita-whats-brad-eating', path: '../lita-whats-brad-eating'
+
 gemspec
